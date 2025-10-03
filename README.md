@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kimsinh Seang</h1>
-<h3 align="center">A passionate frontend, backend developer.</h3>
+<h3 align="center">A passionate frontend, backend developer and LLM.</h3>
 
 - 📫 How to reach me **s.kimsinh@gmail.com**
 
